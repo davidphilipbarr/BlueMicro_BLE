@@ -56,7 +56,7 @@ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR P
 
 
 // hOME MODSish
-/*
+
 #define ALT_S       XXXXXXX
 #define ALT_S_TAP   KC_S
 #define ALT_S_HOLD  (KC_RALT)
@@ -68,7 +68,7 @@ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR P
 #define GUI_F      XXXXXXX
 #define GUI_F_TAP   KC_F
 #define GUI_F_HOLD  (KC_LGUI)
-*/
+
 
 void setupKeymap();
 extern std::array<std::array<Key, MATRIX_COLS>, MATRIX_ROWS> matrix;
